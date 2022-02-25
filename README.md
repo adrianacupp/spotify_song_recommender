@@ -16,4 +16,4 @@ Web scraping the Hot 100 Billboard and creating a dataframe with the current hot
 Using Spotify API to create a large dataset with almost 60k songs and its audio features.
 Normalizing the data from the previous dataset and creating eight different clusters depending on the song audio features, with the K-means method.
 Creating the final prototype of the program, which checks if the user's choice is in the Hot 100 Billboard list and gives a hot recommendation if so. On the other side, if the song is not hot anymore, the program will recommend another song from Spotify based on the song audio features of the user's choice. Flowchart of the program
-![alt text](https://github.com/annafonte/spotify-song-recommender/blob/main/Images/workflow.png)
+![alt text]()
